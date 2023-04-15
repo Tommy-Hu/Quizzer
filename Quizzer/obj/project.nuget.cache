@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LMyt8AWgdTbyyXxPRp+4NS+kUXuF+pnONjeYkFpWn9gbH0Vd6QOeucz4sqrDFlChRFLsx81p6GRXcmdv0AtOg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Quizzer\\Quizzer\\Quizzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tommy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
