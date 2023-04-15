@@ -18,4 +18,12 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\dev\Quizzer\Quizzer\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\dev\Quizzer\Quizzer\.editorconfig" />
+  </ItemGroup>
+
 </Project>
